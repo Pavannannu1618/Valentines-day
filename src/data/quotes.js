@@ -20,7 +20,7 @@ export const loveQuotes = [
     subtext: "Your kindness means everything to me"
   },
   {
-    text: "SHAPPU, you're not just my girlfriend, you're my best friend 💕",
+    text: "SHAPPU, you're not just my girlfriend, you're my best friend and soulmate 💕",
     subtext: "My partner in everything"
   },
   {
